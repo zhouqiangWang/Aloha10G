@@ -1,0 +1,4 @@
+
+*/.idea/*
+hadoop-mapreduce-examples/target/classes/org/apache/hadoop/examples/AggregateWordCount$WordCountPlugInClass.class
+*.class
